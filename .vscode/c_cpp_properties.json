@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "C:/vcpkg/installed/x64-mingw-dynamic/include"
+            ],
+            "defines": [],
+            "compilerPath": "D:/Apps/llvm-mingw-20250709-msvcrt-x86_64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
